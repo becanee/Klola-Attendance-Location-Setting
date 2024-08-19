@@ -1,0 +1,21 @@
+
+  
+  .MainContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .SplitLayoutContainer {
+    height: 100%;
+  }
+  
+  .CollegePicker {
+    --gmpx-color-surface: #fff;
+    flex-grow: 1;
+    margin: 1rem;
+  }
+  
+  .CloseButton {
+    display: block;
+    margin: 1rem;
+  }
